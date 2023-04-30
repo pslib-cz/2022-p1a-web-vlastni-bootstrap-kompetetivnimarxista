@@ -16,7 +16,7 @@ Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které
 * [x] Soubory webu jsou členěny do složek (např. ``/assets/images``, ``/assets/icons``)
 * [x] Soubory webu se nacházejí v GitHubovém repozitáři
 * [x] V repozitáři se soubory ocitly pomocí commitů a pushů a těch je více než 3, rozprostřených do celé doby vypracovávání zadání
-* [ ] Web je dostupný přes [Github Pages](https://pages.github.com/) (do README.md přidejte odkaz)
+* [x] Web je dostupný přes [Github Pages](https://pages.github.com/) (do README.md přidejte odkaz)
 * [x] Celková načítaná velikost jednotlivých stránek nepřesahuje jednotky MiB
 * [ ] Obrázky mají rozumnou velikost pro mobilní telefon - tj. odpovídají skutečné velikost vymezeného prostoru
 
